@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/larntern",
+  "textures": {
+    "all": "sao:blocks/larntern",
+    "particle": "sao:blocks/larntern",
+    "0": "sao:blocks/larntern"
+  }
+}

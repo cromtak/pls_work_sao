@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sao:block/grave"
+    },
+    "facing=east": {
+      "model": "sao:block/grave",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sao:block/grave",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sao:block/grave",
+      "y": 270
+    }
+  }
+}

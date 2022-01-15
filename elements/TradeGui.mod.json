@@ -1,0 +1,406 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "stats_b.png",
+          "use1Xscale": true,
+          "name": "stats_b.png",
+          "x": 132,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 141,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 159,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 177,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 195,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 213,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 231,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 249,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 267,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 141,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 159,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #3",
+          "x": 195,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #4",
+          "x": 213,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #5",
+          "x": 231,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #6",
+          "x": 249,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 7,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #7",
+          "x": 267,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #2",
+          "x": 177,
+          "y": 62
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 8,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #8",
+          "x": 141,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 9,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #9",
+          "x": 159,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 10,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #10",
+          "x": 177,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 11,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #11",
+          "x": 195,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 12,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #12",
+          "x": 213,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 13,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #13",
+          "x": 231,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 14,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #14",
+          "x": 249,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 15,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #15",
+          "x": 267,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 141,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 159,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 177,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 195,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 213,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 231,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 249,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slot2.png",
+          "use1Xscale": false,
+          "name": "slot2.png",
+          "x": 267,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "trade",
+          "onClick": {
+            "name": "Trade"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "trade",
+          "x": 186,
+          "y": 35
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

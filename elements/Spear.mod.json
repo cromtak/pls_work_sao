@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "spear",
+    "customModelName": "Normal",
+    "name": "Spear",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.5,
+    "enchantability": 1,
+    "damageVsEntity": 4.1000000000000005,
+    "usageCount": 300,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

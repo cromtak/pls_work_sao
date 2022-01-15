@@ -1,0 +1,49 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Accept",
+          "onClick": {
+            "name": "AcceptQuest"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Accept",
+          "x": 186,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Dialog>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Dialog>",
+          "x": 150,
+          "y": 62
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

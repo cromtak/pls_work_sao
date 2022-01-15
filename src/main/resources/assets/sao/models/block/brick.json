@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sao:blocks/bricks",
+    "up": "sao:blocks/bricks",
+    "north": "sao:blocks/bricks",
+    "east": "sao:blocks/bricks",
+    "south": "sao:blocks/bricks",
+    "west": "sao:blocks/bricks",
+    "particle": "sao:blocks/bricks"
+  }
+}

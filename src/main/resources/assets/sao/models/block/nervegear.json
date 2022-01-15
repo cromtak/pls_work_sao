@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/nervgear",
+  "textures": {
+    "all": "sao:blocks/nervegear",
+    "particle": "sao:blocks/nervegear",
+    "0": "sao:blocks/nervegear"
+  }
+}

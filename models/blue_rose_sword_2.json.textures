@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "DarkRepulser": "blue_rose_sword_2"
+      },
+      "name": "default"
+    }
+  }
+}

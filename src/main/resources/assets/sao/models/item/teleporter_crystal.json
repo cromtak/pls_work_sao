@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/teleport_crystal",
+  "textures": {
+    "0": "sao:blocks/teleport_crystal",
+    "particle": "sao:items/teleportercrystal"
+  }
+}

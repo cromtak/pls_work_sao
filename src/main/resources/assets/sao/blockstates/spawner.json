@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sao:block/spawner"
+    },
+    "facing=east": {
+      "model": "sao:block/spawner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sao:block/spawner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sao:block/spawner",
+      "y": 270
+    }
+  }
+}

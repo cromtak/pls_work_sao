@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "double_axe_one_handed"
+      },
+      "name": "default"
+    }
+  }
+}

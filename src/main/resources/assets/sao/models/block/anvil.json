@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/anvil",
+  "textures": {
+    "all": "sao:blocks/anvil",
+    "particle": "sao:blocks/anvil",
+    "0": "sao:blocks/anvil"
+  }
+}

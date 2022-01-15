@@ -1,0 +1,127 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "stats_b.png",
+          "use1Xscale": true,
+          "name": "stats_b.png",
+          "x": 133,
+          "y": 37
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Skills",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Skills",
+          "x": 197,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Vertical Slash",
+          "onClick": {
+            "name": "SetVerticalSlash"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "Vertical Slash",
+          "x": 134,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Skill:_________________",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Skill:_________________",
+          "x": 135,
+          "y": 63
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:skill>",
+          "color": {
+            "value": -16711681,
+            "falpha": 0.0
+          },
+          "name": "<VAR:skill>",
+          "x": 165,
+          "y": 63
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Main Menu",
+          "onClick": {
+            "name": "OpenMainMenu"
+          },
+          "width": 70,
+          "height": 20,
+          "name": "Main Menu",
+          "x": 178,
+          "y": 196
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Meteor Break",
+          "onClick": {
+            "name": "SetMeteorBreak"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Meteor Break",
+          "x": 134,
+          "y": 94
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Dash",
+          "onClick": {
+            "name": "SetDash"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "Dash",
+          "x": 134,
+          "y": 114
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

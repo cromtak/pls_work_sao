@@ -1,0 +1,138 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "stats_b.png",
+          "use1Xscale": true,
+          "name": "stats_b.png",
+          "x": 133,
+          "y": 37
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Menu",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Menu",
+          "x": 204,
+          "y": 35
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Stats",
+          "onClick": {
+            "name": "OpenMenuOnKeyPressed"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Stats",
+          "x": 132,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "remove",
+          "onClick": {
+            "name": "RemoveMember"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "remove",
+          "x": 177,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "add",
+          "onClick": {
+            "name": "AddMember"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "add",
+          "x": 231,
+          "y": 71
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "nick",
+          "width": 45,
+          "height": 20,
+          "name": "nick",
+          "x": 133,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:party>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:party>",
+          "x": 203,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Party Members:",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Party Members:",
+          "x": 133,
+          "y": 92
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Skills",
+          "onClick": {
+            "name": "OpenSkills"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Skills",
+          "x": 133,
+          "y": 105
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

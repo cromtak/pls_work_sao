@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/battleaxe2",
+  "textures": {
+    "5": "sao:blocks/battleaxe",
+    "particle": "sao:items/battleaxe"
+  }
+}

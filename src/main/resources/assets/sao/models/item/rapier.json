@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/rapier3",
+  "textures": {
+    "2": "sao:blocks/rapier3",
+    "particle": "sao:items/rapier3"
+  }
+}

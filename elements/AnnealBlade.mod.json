@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "anneal_blade",
+    "customModelName": "anneal_blade_2:default",
+    "name": "Anneal Blade",
+    "specialInfo": [
+      "One-Handed Long Sword",
+      "Sword with which our hero defeated the boss of the first floor and was crowned as Beater"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 2.25,
+    "enchantability": 12,
+    "damageVsEntity": 10.0,
+    "usageCount": 1024,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

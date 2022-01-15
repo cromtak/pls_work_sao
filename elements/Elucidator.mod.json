@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "elucidatorver2",
+    "customModelName": "elucidatorver3:default",
+    "name": "§9Elucidator",
+    "specialInfo": [
+      "One-Handed Long Sword"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 9.0,
+    "attackSpeed": 3.5,
+    "enchantability": 25,
+    "damageVsEntity": 25.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

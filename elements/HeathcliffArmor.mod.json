@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "kot_body",
+    "enableLeggings": true,
+    "textureLeggings": "kot_leggings",
+    "enableBoots": true,
+    "textureBoots": "kot_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "kot",
+    "helmetName": "Heathcliff Armor Helmet",
+    "bodyName": "Heathcliff Armor Body",
+    "leggingsName": "Heathcliff Armor Leggings",
+    "bootsName": "Heathcliff Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [
+      "High quality great armor belonging to Heathcliff"
+    ],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelKnights_of_the_Blood_Chestplate4",
+    "bodyModelPart": "Armor_body",
+    "armsModelPartL": "Left_arm",
+    "armsModelPartR": "Right_arm",
+    "bodyModelTexture": "knights_of_the_blood_chestplate2.png",
+    "leggingsModelName": "ModelKnights_of_the_Blood_Leggins2",
+    "leggingsModelPartL": "Left_leg",
+    "leggingsModelPartR": "Right_leg",
+    "leggingsModelTexture": "knights_of_the_blood_leggins2.png",
+    "bootsModelName": "ModelKnights_of_the_Blood_Boots",
+    "bootsModelPartL": "Left_boots",
+    "bootsModelPartR": "Right_boots",
+    "bootsModelTexture": "knights_of_the_blood_boots.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 500,
+    "damageValueHelmet": 16,
+    "damageValueBody": 16,
+    "damageValueLeggings": 16,
+    "damageValueBoots": 16,
+    "enchantability": 25,
+    "toughness": 5.0,
+    "knockbackResistance": 0.25,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

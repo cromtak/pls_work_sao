@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/colnetherite",
+  "textures": {
+    "0": "sao:blocks/colnetherite",
+    "particle": "sao:items/colnetherite"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "sao:wires"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "sao:circuit_board"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "sao:circuit_board"
+    },
+    "6": {
+      "item": "sao:wires"
+    },
+    "7": {
+      "item": "sao:circuit_board"
+    },
+    "8": {
+      "item": "sao:wires"
+    }
+  },
+  "result": {
+    "item": "sao:nervegear",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/nightsky2",
+  "textures": {
+    "mesh_palette": "sao:blocks/nightsky2",
+    "particle": "sao:items/nightsky2"
+  }
+}

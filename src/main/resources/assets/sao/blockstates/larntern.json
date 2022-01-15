@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sao:block/larntern"
+    },
+    "facing=east": {
+      "model": "sao:block/larntern",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sao:block/larntern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sao:block/larntern",
+      "y": 270
+    }
+  }
+}

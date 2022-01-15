@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "hammer1",
+    "customModelName": "greatmjolnir:default",
+    "name": "Great Mjolnir",
+    "specialInfo": [
+      "Two-Handed GreatHammer"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 12,
+    "damageVsEntity": 15.0,
+    "usageCount": 1024,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

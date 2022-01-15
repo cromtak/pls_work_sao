@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/elucidatorver3",
+  "textures": {
+    "mesh_palette": "sao:blocks/elucidatorver2",
+    "particle": "sao:items/elucidatorver2"
+  }
+}

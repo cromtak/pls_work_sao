@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/blue_rose_sword_2",
+  "textures": {
+    "DarkRepulser": "sao:blocks/blue_rose_sword_2",
+    "particle": "sao:items/blue_rose_sword_2"
+  }
+}

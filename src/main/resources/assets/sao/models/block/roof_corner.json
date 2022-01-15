@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/roof_corner",
+  "textures": {
+    "all": "sao:blocks/roof",
+    "particle": "sao:blocks/roof",
+    "0": "sao:blocks/roof_corner"
+  }
+}

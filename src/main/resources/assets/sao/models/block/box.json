@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/box",
+  "textures": {
+    "all": "sao:blocks/box",
+    "particle": "sao:blocks/box",
+    "0": "sao:blocks/box"
+  }
+}

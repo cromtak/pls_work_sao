@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "TAB",
+    "keyBindingName": "Open Menu",
+    "keyBindingCategoryKey": "inventory",
+    "onKeyPressed": {
+      "name": "OpenMainMenu"
+    }
+  }
+}

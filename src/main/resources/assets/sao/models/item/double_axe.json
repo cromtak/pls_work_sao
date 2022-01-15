@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/double_axe_one_handed_2",
+  "textures": {
+    "5": "sao:blocks/double_axe_one_handed",
+    "particle": "sao:items/double_axe_one_handed"
+  }
+}

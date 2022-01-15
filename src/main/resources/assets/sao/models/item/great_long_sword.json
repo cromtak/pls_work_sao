@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/greatlongsword",
+  "textures": {
+    "mesh_palette": "sao:blocks/greatlongsword",
+    "particle": "sao:items/longsword"
+  }
+}

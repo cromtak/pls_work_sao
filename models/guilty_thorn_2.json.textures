@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "mesh_palette": "guilty_thorn"
+      },
+      "name": "default"
+    }
+  }
+}

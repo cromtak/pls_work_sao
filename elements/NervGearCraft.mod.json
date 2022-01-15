@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Wires"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:CircuitBoard"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "CUSTOM:CircuitBoard"
+      },
+      {
+        "value": "CUSTOM:Wires"
+      },
+      {
+        "value": "CUSTOM:CircuitBoard"
+      },
+      {
+        "value": "CUSTOM:Wires"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Nervegear"
+    },
+    "name": "nervegear",
+    "namespace": "mod"
+  }
+}

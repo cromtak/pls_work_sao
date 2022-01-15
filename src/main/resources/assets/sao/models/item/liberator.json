@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/liberator",
+  "textures": {
+    "mesh_palette": "sao:blocks/liberator",
+    "particle": "sao:items/liberator"
+  }
+}

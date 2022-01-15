@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/liberatorshield9",
+  "textures": {
+    "0": "sao:blocks/liberator2",
+    "particle": "sao:items/liberator2"
+  }
+}

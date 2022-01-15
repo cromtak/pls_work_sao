@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/halberd",
+  "textures": {
+    "5": "sao:blocks/halberd",
+    "particle": "sao:items/halberd"
+  }
+}

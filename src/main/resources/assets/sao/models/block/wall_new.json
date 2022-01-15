@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sao:blocks/wall_new",
+    "up": "sao:blocks/wall_new",
+    "north": "sao:blocks/wall_new",
+    "east": "sao:blocks/wall_new",
+    "south": "sao:blocks/wall_new",
+    "west": "sao:blocks/wall_new",
+    "particle": "sao:blocks/wall_new"
+  }
+}

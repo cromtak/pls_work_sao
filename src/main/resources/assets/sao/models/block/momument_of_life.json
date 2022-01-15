@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/momument_of_life",
+  "textures": {
+    "all": "sao:blocks/momument_of_life",
+    "particle": "sao:blocks/momument_of_life",
+    "0": "sao:blocks/momument_of_life"
+  }
+}

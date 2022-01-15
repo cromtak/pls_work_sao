@@ -1,0 +1,326 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "stats_b.png",
+          "use1Xscale": true,
+          "name": "stats_b.png",
+          "x": 133,
+          "y": 38
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Stats",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Stats",
+          "x": 196,
+          "y": 38
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Max Health",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Max Health",
+          "x": 139,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Regeneration",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Regeneration",
+          "x": 139,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Power",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Power",
+          "x": 139,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Deffend",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Deffend",
+          "x": 139,
+          "y": 118
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:hp_max>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:hp_max>",
+          "x": 206,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:regen>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:regen>",
+          "x": 206,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:str>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:str>",
+          "x": 206,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:def>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:def>",
+          "x": 206,
+          "y": 118
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Speed",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Speed",
+          "x": 139,
+          "y": 138
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:speed>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:speed>",
+          "x": 206,
+          "y": 138
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Points",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Points",
+          "x": 139,
+          "y": 178
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:points>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:points>",
+          "x": 206,
+          "y": 178
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "PowerPlus"
+          },
+          "displayCondition": {
+            "name": "HasPoints"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "+",
+          "x": 263,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "DefendPlus"
+          },
+          "displayCondition": {
+            "name": "HasPoints"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "+",
+          "x": 263,
+          "y": 118
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "SpeedPlus"
+          },
+          "displayCondition": {
+            "name": "HasPoints"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "+",
+          "x": 263,
+          "y": 138
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "RegenPlus"
+          },
+          "displayCondition": {
+            "name": "HasPoints"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "+",
+          "x": 263,
+          "y": 78
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "HPplus"
+          },
+          "displayCondition": {
+            "name": "HasPoints"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "+",
+          "x": 263,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:DefProcent>",
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "name": "<VAR:DefProcent>",
+          "x": 206,
+          "y": 128
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "%",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "%",
+          "x": 234,
+          "y": 128
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Main Menu",
+          "onClick": {
+            "name": "OpenMainMenu"
+          },
+          "width": 70,
+          "height": 20,
+          "name": "Main Menu",
+          "x": 177,
+          "y": 198
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 20,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

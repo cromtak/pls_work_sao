@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/anneal_blade_2",
+  "textures": {
+    "mesh_palette": "sao:blocks/anneal_blade",
+    "particle": "sao:items/anneal_blade"
+  }
+}

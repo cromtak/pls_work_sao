@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/hammer",
+  "textures": {
+    "2": "sao:blocks/hammer",
+    "particle": "sao:items/hammer2"
+  }
+}

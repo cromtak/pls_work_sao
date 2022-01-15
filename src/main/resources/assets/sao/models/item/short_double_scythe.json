@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/shortdoublescythe2",
+  "textures": {
+    "1": "sao:blocks/shortdoublescythe",
+    "particle": "sao:items/shortdoublescythe"
+  }
+}

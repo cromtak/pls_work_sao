@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/great_axe_2",
+  "textures": {
+    "5": "sao:blocks/great_axe",
+    "particle": "sao:items/great_axe"
+  }
+}

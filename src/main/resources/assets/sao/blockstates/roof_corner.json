@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sao:block/roof_corner"
+    },
+    "facing=east": {
+      "model": "sao:block/roof_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sao:block/roof_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sao:block/roof_corner",
+      "y": 270
+    }
+  }
+}

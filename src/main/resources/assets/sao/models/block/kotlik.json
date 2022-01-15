@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/kotlikn",
+  "textures": {
+    "all": "sao:blocks/kotlikn",
+    "particle": "sao:blocks/kotlikn",
+    "0": "sao:blocks/kotlikn"
+  }
+}

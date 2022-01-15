@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sao:block/night_tabble"
+    },
+    "facing=east": {
+      "model": "sao:block/night_tabble",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sao:block/night_tabble",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sao:block/night_tabble",
+      "y": 270
+    }
+  }
+}

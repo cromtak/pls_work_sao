@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/colgold",
+  "textures": {
+    "0": "sao:blocks/colgold",
+    "particle": "sao:items/colgold"
+  }
+}

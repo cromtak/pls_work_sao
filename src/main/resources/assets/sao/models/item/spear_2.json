@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/spear",
+  "textures": {
+    "5": "sao:blocks/spear",
+    "particle": "sao:items/spear2"
+  }
+}

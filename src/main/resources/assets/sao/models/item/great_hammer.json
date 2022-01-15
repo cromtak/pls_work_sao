@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/greathammer",
+  "textures": {
+    "2": "sao:blocks/greathammer",
+    "particle": "sao:items/greathammer"
+  }
+}

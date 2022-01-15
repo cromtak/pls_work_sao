@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/shortsword",
+  "textures": {
+    "mesh_palette": "sao:blocks/shortsword",
+    "particle": "sao:items/shortsword"
+  }
+}

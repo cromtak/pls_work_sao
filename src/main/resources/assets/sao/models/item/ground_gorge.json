@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/ground_gorge_new_2",
+  "textures": {
+    "5": "sao:blocks/ground_gorge",
+    "particle": "sao:items/ground_gorge"
+  }
+}

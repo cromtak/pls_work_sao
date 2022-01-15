@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "liberator2",
+    "customModelName": "liberatorshield9:default",
+    "name": "Liberator Shield",
+    "specialInfo": [
+      "One-Handed Shield"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.5,
+    "enchantability": 25,
+    "damageVsEntity": 16.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

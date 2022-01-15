@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "great_axe"
+      },
+      "name": "default"
+    }
+  }
+}

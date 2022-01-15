@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "liberator2"
+      },
+      "name": "default"
+    }
+  }
+}

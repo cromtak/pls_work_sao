@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "real time",
+    "description": "time will be same as in reallity ",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

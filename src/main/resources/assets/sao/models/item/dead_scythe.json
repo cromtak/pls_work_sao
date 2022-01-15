@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/deadscythe",
+  "textures": {
+    "mesh_palette": "sao:blocks/deadscythe",
+    "particle": "sao:items/deadscythe"
+  }
+}

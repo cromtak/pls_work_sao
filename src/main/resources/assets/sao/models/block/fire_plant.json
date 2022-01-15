@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sao:blocks/fire_plant",
+    "particle": "sao:blocks/fire_plant"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/goldenscythe",
+  "textures": {
+    "texture": "sao:blocks/goldenscythe",
+    "particle": "sao:items/goldenscythe"
+  }
+}

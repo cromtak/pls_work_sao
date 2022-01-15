@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/mace",
+  "textures": {
+    "4": "sao:blocks/mace",
+    "particle": "sao:items/mace"
+  }
+}

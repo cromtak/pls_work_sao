@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sao:block/anvil"
+    },
+    "facing=east": {
+      "model": "sao:block/anvil",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sao:block/anvil",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sao:block/anvil",
+      "y": 270
+    }
+  }
+}

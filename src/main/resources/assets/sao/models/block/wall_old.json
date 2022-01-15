@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sao:blocks/ww2",
+    "up": "sao:blocks/ww2",
+    "north": "sao:blocks/ww2",
+    "east": "sao:blocks/ww2",
+    "south": "sao:blocks/ww2",
+    "west": "sao:blocks/ww2",
+    "particle": "sao:blocks/ww2"
+  }
+}

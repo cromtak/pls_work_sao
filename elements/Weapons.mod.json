@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Weapons",
+    "icon": {
+      "value": "CUSTOM:ClassicSword"
+    },
+    "showSearch": false
+  }
+}

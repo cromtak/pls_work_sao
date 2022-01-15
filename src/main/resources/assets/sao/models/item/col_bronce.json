@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/colbronce",
+  "textures": {
+    "0": "sao:blocks/colbronce",
+    "particle": "sao:items/colbronce"
+  }
+}

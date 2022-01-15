@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sao:block/brick"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/colmithril",
+  "textures": {
+    "0": "sao:blocks/colmithril",
+    "particle": "sao:items/colmithril"
+  }
+}

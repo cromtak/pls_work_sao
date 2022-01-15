@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/greatsword2",
+  "textures": {
+    "1": "sao:blocks/greatsword",
+    "particle": "sao:items/greatsword"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/lightlambent",
+  "textures": {
+    "mesh_palette": "sao:blocks/lightlambent",
+    "particle": "sao:items/lightlambent"
+  }
+}

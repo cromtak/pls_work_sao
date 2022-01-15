@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "longsword",
+    "customModelName": "greatlongsword:default",
+    "name": "Great Long Sword",
+    "specialInfo": [
+      "Two-Handed Great Long Sword"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 10.0,
+    "usageCount": 512,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

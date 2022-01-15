@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/dagger",
+  "textures": {
+    "mesh_palette": "sao:blocks/dagger",
+    "particle": "sao:items/shortsword"
+  }
+}

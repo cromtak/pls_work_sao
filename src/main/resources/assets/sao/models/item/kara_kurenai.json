@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/karakurenai",
+  "textures": {
+    "4": "sao:blocks/karakurenai",
+    "particle": "sao:items/karakurenai"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/new_tabble",
+  "textures": {
+    "all": "sao:blocks/new_tabble",
+    "particle": "sao:blocks/new_tabble",
+    "0": "sao:blocks/new_tabble"
+  }
+}

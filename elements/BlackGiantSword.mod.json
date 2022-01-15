@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "blackgiantsword",
+    "customModelName": "blackgiantsword2:default",
+    "name": "Black Giant Sword",
+    "specialInfo": [
+      "Two-Handed GiantSword"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Weapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.25,
+    "enchantability": 12,
+    "damageVsEntity": 16.0,
+    "usageCount": 1024,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/katana2",
+  "textures": {
+    "1": "sao:blocks/katana",
+    "particle": "sao:items/rapier3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/blackgreatsword",
+  "textures": {
+    "mesh_palette": "sao:blocks/blackgreatsword",
+    "particle": "sao:items/blackgreatsword"
+  }
+}

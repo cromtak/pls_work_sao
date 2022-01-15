@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/darkrepulserver3",
+  "textures": {
+    "DarkRepulser": "sao:blocks/darkrepulserver2",
+    "particle": "sao:items/darkrepulserver2"
+  }
+}

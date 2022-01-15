@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "sao:blocks/old_door_1",
+    "top": "sao:blocks/old_door_3"
+  }
+}

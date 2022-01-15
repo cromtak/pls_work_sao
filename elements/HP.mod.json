@@ -1,0 +1,181 @@
+{
+  "_fv": 24,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "b1.png",
+          "use1Xscale": true,
+          "name": "b1.png",
+          "x": 6,
+          "y": 17
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:classs>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:classs>",
+          "x": 6,
+          "y": 7
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "b3.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Hp14"
+          },
+          "name": "b3.png",
+          "x": 6,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "b4.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Hp24"
+          },
+          "name": "b4.png",
+          "x": 6,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "b5.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Hp34"
+          },
+          "name": "b5.png",
+          "x": 6,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "b6.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Hp44"
+          },
+          "name": "b6.png",
+          "x": 6,
+          "y": 17
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:hp_show>",
+          "color": {
+            "value": -65281,
+            "falpha": 0.0
+          },
+          "name": "<VAR:hp_show>",
+          "x": 7,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "other_bar.png",
+          "use1Xscale": true,
+          "name": "other_bar.png",
+          "x": 6,
+          "y": 33
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "other_bar.png",
+          "use1Xscale": true,
+          "name": "other_bar.png",
+          "x": 6,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:xp>",
+          "color": {
+            "value": -16737793,
+            "falpha": 0.0
+          },
+          "name": "<VAR:xp>",
+          "x": 7,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:lvl>",
+          "color": {
+            "value": -16711681,
+            "falpha": 0.0
+          },
+          "name": "<VAR:lvl>",
+          "x": 7,
+          "y": 33
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "LVL",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "LVL",
+          "x": 57,
+          "y": 33
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "XP",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "XP",
+          "x": 57,
+          "y": 42
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "Hearthcan"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

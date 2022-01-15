@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/bamboo",
+  "textures": {
+    "texture": "sao:blocks/shinai",
+    "particle": "sao:items/shinai"
+  }
+}

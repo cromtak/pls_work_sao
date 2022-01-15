@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sao:capacitator"
+    },
+    {
+      "item": "sao:wires"
+    },
+    {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    {
+      "item": "sao:wires"
+    },
+    {
+      "item": "sao:capacitator"
+    }
+  ],
+  "result": {
+    "item": "sao:circuit_board",
+    "count": 1
+  }
+}

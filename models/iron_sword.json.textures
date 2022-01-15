@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "red_handle",
+        "2": "blade_2",
+        "8": "blade_2"
+      },
+      "name": "default"
+    }
+  }
+}

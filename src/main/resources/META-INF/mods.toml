@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="sao"
+version="0.0.25"
+displayName="Sword Art Online"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/sao-mod-by-cromta"
+logoFile="logo.png"
+authors="Cromta, Objective, DarkKnight9029"
+description='''
+Mod about sword art online anime!
+'''
+
+[[dependencies.sao]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

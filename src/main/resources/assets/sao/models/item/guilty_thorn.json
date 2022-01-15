@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/guilty_thorn_2",
+  "textures": {
+    "mesh_palette": "sao:blocks/guilty_thorn",
+    "particle": "sao:items/guilty_thorn"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sao:custom/blackgiantsword2",
+  "textures": {
+    "6": "sao:blocks/blak",
+    "particle": "sao:items/blackgiantsword"
+  }
+}

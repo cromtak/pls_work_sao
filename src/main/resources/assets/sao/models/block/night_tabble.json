@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/night_tabble",
+  "textures": {
+    "all": "sao:blocks/night_tabble",
+    "particle": "sao:blocks/night_tabble",
+    "0": "sao:blocks/night_tabble"
+  }
+}

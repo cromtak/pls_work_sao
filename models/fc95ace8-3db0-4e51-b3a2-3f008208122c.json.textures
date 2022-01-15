@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "sword": "9fc598ba-5fb1-4bc4-a9ab-167c99a1b9e1"
+      },
+      "name": "default"
+    }
+  }
+}

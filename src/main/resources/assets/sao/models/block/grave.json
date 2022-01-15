@@ -1,0 +1,8 @@
+{
+  "parent": "sao:custom/grave",
+  "textures": {
+    "all": "sao:blocks/grave",
+    "particle": "sao:blocks/grave",
+    "0": "sao:blocks/grave"
+  }
+}
